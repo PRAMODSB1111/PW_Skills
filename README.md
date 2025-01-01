@@ -1,1 +1,1 @@
-# PW_Skills
+Python basics assignment
